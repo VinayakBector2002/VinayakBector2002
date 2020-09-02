@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
-- 🌱 I’m currently learning predictions using ML(python) and HTML5
+- 🌱 I’m currently learning predictions using ML(python) and CSS
 - 👯 I’m looking to collaborate on making an Exam proctor
 - 🤔 I’m looking for help with MY WEBSITE
 - 💬 Ask me about Python! :)
