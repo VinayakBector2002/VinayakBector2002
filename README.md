@@ -10,5 +10,4 @@
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark" />
 </div>
-## Show some ❤️ 
-### follow me! and like my Repos :)
+
