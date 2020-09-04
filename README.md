@@ -7,5 +7,5 @@
 - 💬 Ask me about Python! :)
 - 📫 How to reach me: Mail me at bector.vinayak02@gmail.com
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
-### Show some ❤️ 
-## follow me! and like my Repos :)
+## Show some ❤️ 
+### follow me! and like my Repos :)
