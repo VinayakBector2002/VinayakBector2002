@@ -1,3 +1,7 @@
+<div align = "center">
+  <img align="center" src="Vlogo.jpg" />
+</div>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
