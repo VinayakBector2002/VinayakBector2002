@@ -16,7 +16,7 @@
 * Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
 
 
-## Tech Stack :computer:
+### Tech Stack :computer:
 
 <br>
 <table>
