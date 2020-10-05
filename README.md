@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 
-### Show some ❤️ by starring the repositories!
+### Show some ❤️ by starring the repos!
 
 </div>
 
