@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 
-### Show some ❤️ by starring the repos! <img src="https://media0.giphy.com/media/l378yhB4cEUIrZYfC/giphy.gif" width="30px">
+### Show some ❤️ by starring the repos!
 
 </div>
 
