@@ -2,7 +2,7 @@
   <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Vlogo.jpg" />
 </div>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
 - 🌱 I’m currently learning: predictions using ML(python) and about cryptocurrency 
