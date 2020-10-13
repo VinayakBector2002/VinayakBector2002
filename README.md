@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: predictions using ML(python) and about cryptocurrency 
 - 👯 I’m looking to collaborate on making an Exam proctor
 - 🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a>
-- 💬 Ask me about Python! :)
+- 💬 Ask me about Python! 🐍
 - 📫 How to reach me: Mail me at bector.vinayak02@gmail.com
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
 <div align = "center">
