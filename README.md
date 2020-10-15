@@ -1,5 +1,7 @@
 <div align = "center">
   <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Vlogo.jpg" />
+ </div>
+ <div align = "center"> 
   ![](https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Hnet-image%20(3).gif)
 </div>
 
