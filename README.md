@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on making an Exam proctor
 - 🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a>
 - 💬 Ask me about Python! 🐍
-- 📫 How to reach me: ![Gmail Badge](https://img.shields.io/badge/-bector.vinayak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bector.vinayak02@gmail.com)
+- 📫 How to reach me: <a href =bector.vinayak02@gmail.com>![Gmail Badge](https://img.shields.io/badge/-bector.vinayak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bector.vinayak02@gmail.com)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
 <div align = "center">
