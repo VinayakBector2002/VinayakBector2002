@@ -21,7 +21,7 @@
 <div align  ="centre">
   <img align = "centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" />
 </div> 
-<div align ="right">
+<div align ="centre">
   <img align = "centre" src="https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=dracula&rank=S,AAA,AA,A&margin-w=10" />
 </div>
 <div align = "center">  
