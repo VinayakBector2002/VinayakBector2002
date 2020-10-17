@@ -18,14 +18,14 @@
 - 📫 How to reach me: <a href ="mailto:bector.vinayak02@gmail.com">![Gmail Badge](https://img.shields.io/badge/-bector.vinayak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bector.vinayak02@gmail.com)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
-<div align  ="centre">
-  <img align = "centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" />
-</div> 
-<div align ="centre">
-  <img align = "centre" src="https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=dracula&rank=S,AAA,AA,A&margin-w=10" />
+<!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
 </div>
-<div align = "center">  
-  <p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
+
+<div align = "center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p><p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
+  
 </div>
 <div align="center">
 
