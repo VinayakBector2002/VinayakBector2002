@@ -19,10 +19,10 @@
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
 <div align  ="centre">
-  <p><img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p>
+  <p><img align = "centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p>
 </div> 
 <div align ="right">
-  <p><img src="https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=dracula&rank=S,AAA,AA,A&margin-w=10" /></p>
+  <p><img align = "centre" src="https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=dracula&rank=S,AAA,AA,A&margin-w=10" /></p>
 </div>
 <div align = "center">  
   <p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
