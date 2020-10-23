@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
 - 🌱 I’m currently learning: predictions using ML(python) and about cryptocurrency 
-- 👯 I’m looking to collaborate on making an Exam proctor
+- 👯 I’m looking to collaborate on making <a href ="https://vinayakbector2002.github.io/Zoom-Virtual-Backgrounds/"> Zoom Virtual Background website </a>
 - 🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a>
 - 💬 Ask me about Python! 🐍
 - 📫 How to reach me: <a href ="mailto:bector.vinayak02@gmail.com">![Gmail Badge](https://img.shields.io/badge/-bector.vinayak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bector.vinayak02@gmail.com)</a>
