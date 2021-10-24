@@ -10,10 +10,11 @@
 
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on a COVID prediction model with my brother Kartikeya Bector
-- 🌱 I’m currently learning: predictions using ML(python) and about cryptocurrency 
+- 🔭 I’m currently working on a chrome extension to help people suffering with Color Vision Deficiency (a.k.a Color blindness)
+- 🌱 I’m currently learning: DrRacket
+<!--
 - 👯 I’m looking to collaborate on making <a href ="https://vinayakbector2002.github.io/Zoom-Virtual-Backgrounds/"> Zoom Virtual Background website </a>
-- 🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a>
+- 🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a> -->
 - 💬 Ask me about Python! 🐍
 - 📫 How to reach me: <a href ="mailto:bector.vinayak02@gmail.com">![Gmail Badge](https://img.shields.io/badge/-bector.vinayak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bector.vinayak02@gmail.com)</a>
 
@@ -30,9 +31,9 @@
 <div align="center">
 
 ### Show some ❤️ by starring the repos!
-
 </div>
-
+<!--
 <div align = "center">
   <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Contribution3D.jpg" />
 </div>
+-->
