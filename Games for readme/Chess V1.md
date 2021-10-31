@@ -1,33 +1,78 @@
-# Hi, I'm Kavish!
-### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile
 
-<p align="center">
-  <a href="https://kavishhukmani.me/"><img src="https://img.icons8.com/color/96/000000/internet.png" height="16"/>Personal Website</a> •
-  <a href="https://twitter.com/2Gremlin181"><img src="https://img.icons8.com/color/96/000000/twitter-circled.png" height="16"/>Twitter</a> •
-  <a href="https://www.linkedin.com/in/kavish-hukmani/"><img src="https://img.icons8.com/color/96/000000/linkedin-circled.png" height="16"/>LinkedIn</a> •
-  <a href="mailto:khukmani@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a>
-</p>
+## Tim's Community Chess Tournament
 
-#### Why not play a game of Tic-Tac-Toe<img src="https://img.icons8.com/material-outlined/96/000000/delete-sign.png" height="16"/><img src="https://img.icons8.com/material-outlined/96/000000/unchecked-circle.png" height="16"/> while you're here
-Click on a tile to play  
-The most picked move is chosen every hour
+**Game is in progress.** This is open to ANYONE to play the next move. That's the point. :wave:  It's your turn! Move a black (solid) piece.
 
-Current turn: <img src= "https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/False.png" alt="Current Turn" width="32"/>
+|   | A | B | C | D | E | F | G | H |
+| - | - | - | - | - | - | - | - | - |
+| 8 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) |
+| 7 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) |
+| 6 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 5 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/p.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 4 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
+| 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/Q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
 
-| Tic | Tac | Toe |
-|--|--|--|
-| [![Tile 0](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png)](https://github.com/DoubleGremlin181) | [![Tile 1](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://cntr.click/k6m4pLh) | [![Tile 2](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://cntr.click/0Jy1NdB) |
-| [![Tile 3](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://cntr.click/y4BYk8p) | [![Tile 4](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://cntr.click/VCtRg6b) | [![Tile 5](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://cntr.click/b0a0hMb) |
-| [![Tile 6](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://cntr.click/sGaY2s4) | [![Tile 7](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://cntr.click/5B5pmVK) | [![Tile 8](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://cntr.click/SG7sV89) |
+#### **BLACK (solid):** It's your move... to choose _where_ to move..
 
-## How it works
+| FROM | TO - _just click one of the links_ :) |
+| ---- | -- |
+| **A5** | [A4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca5a4%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **A8** | [A6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca8a6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [A7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ca8a7%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **B7** | [B5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb7b5%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [B6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb7b6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **B8** | [A6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb8a6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb8c6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cb8d7%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **C7** | [C5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc7c5%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc7c6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **C8** | [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8d7%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8e6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [F5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8f5%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G4](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8g4%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H3](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cc8h3%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **D8** | [D5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8d5%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8d6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cd8d7%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **E7** | [E5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce7e5%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [E6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce7e6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **E8** | [D7](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ce8d7%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **F7** | [F5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf7f5%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [F6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cf7f6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **G7** | [G5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg7g5%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg7g6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **G8** | [F6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg8f6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Cg8h6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
+| **H7** | [H5](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch7h5%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H6](https://github.com/timburgan/timburgan/issues/new?title=chess%7Cmove%7Ch7h6%7C17624&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 
-Each open tile is a hyperlink embedded in an image which tracks the number of clicks and redirects you to back my profile.
-Every time the program is run it plays the move with maximum number of clicks.
-It uses GitHub Actions to run every hour using a cron job.
-The rest is just a regular game of Tic-Tac-Toe
-    
-## About Me
+Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/timburgan)
 
+**How this works**
 
-I'm a passionate🥇, creative🎨 and perceptive🔭 engineer🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge🎓. Anything and everything that can be classified as technology💻 fascinates me. My interests and work range from Data Science📈 to creating Chatbots🤖 to building APIs for Computer Vision applications👀 to making AR filters👓 for Instagram and much more. I'm always open to new ideas and opportunities.
+When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
+
+**Notice a problem?**
+
+Raise an [issue](https://github.com/timburgan/timburgan/issues), and include the text _cc @timburgan_.
+
+**Last few moves, this game**
+
+| Move  | Who |
+| ----- | --- |
+| E4 to D5 | [@TuiLaThanhNe](https://github.com/TuiLaThanhNe) |
+| D7 to D5 | [@teeradon43](https://github.com/teeradon43) |
+| D2 to D4 | [@houhoulis](https://github.com/houhoulis) |
+| A7 to A5 | [@MarlonPassos-git](https://github.com/MarlonPassos-git) |
+| E2 to E4 | [@automainint](https://github.com/automainint) |
+
+**Top 20 Leaderboard: Most moves across all games, except me.**
+
+| Moves | Who |
+| ----- | --- |
+| 1456 | [@michaelprimo](https://github.com/michaelprimo) |
+| 1331 | [@simonberner](https://github.com/simonberner) |
+| 1060 | [@JRetza](https://github.com/JRetza) |
+| 498 | [@houhoulis](https://github.com/houhoulis) |
+| 459 | [@ApoorvTyagi](https://github.com/ApoorvTyagi) |
+| 441 | [@jatin-pahuja](https://github.com/jatin-pahuja) |
+| 388 | [@donno2048](https://github.com/donno2048) |
+| 369 | [@cosmoglint](https://github.com/cosmoglint) |
+| 307 | [@rajesh545862](https://github.com/rajesh545862) |
+| 187 | [@N-NeelPatel](https://github.com/N-NeelPatel) |
+| 172 | [@shpatrickguo](https://github.com/shpatrickguo) |
+| 171 | [@Matteas-Eden](https://github.com/Matteas-Eden) |
+| 166 | [@Ritika-Das](https://github.com/Ritika-Das) |
+| 166 | [@dpr1005](https://github.com/dpr1005) |
+| 154 | [@trekab](https://github.com/trekab) |
+| 145 | [@KimberleyEvans-Parker](https://github.com/KimberleyEvans-Parker) |
+| 139 | [@mishmanners](https://github.com/mishmanners) |
+| 132 | [@minji-o-j](https://github.com/minji-o-j) |
+| 129 | [@siddhant-roy](https://github.com/siddhant-roy) |
+| 119 | [@automainint](https://github.com/automainint) |
