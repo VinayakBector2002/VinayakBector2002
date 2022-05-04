@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on making <a href ="https://vinayakbector2002.github.io/Zoom-Virtual-Backgrounds/"> Zoom Virtual Background website </a>
 - 🤔 I’m looking for help with <a href = "https://vinayakbector2002.github.io/"> MY WEBSITE! </a> -->
 - 💬 Ask me about C, Python, DrRacket
-- 📫 How to reach me: <a href ="mailto:bector.vinayak02@gmail.com">![Gmail Badge](https://img.shields.io/badge/-bector.vinayak02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bector.vinayak02@gmail.com)</a>
+- 📫 How to reach me: <a href ="mailto:vbector@uwaterloo.ca">![Gmail Badge](https://img.shields.io/badge/-vbector@uwaterloo.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbector@uwaterloo.ca)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
 <!--Got the trophies from https://github.com/ryo-ma/github-profile-trophy#margin-width -->
