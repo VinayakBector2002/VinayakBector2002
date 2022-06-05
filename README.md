@@ -8,7 +8,7 @@
 
 
 
-### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
 
 - 🔭 I’m currently working on a chrome extension to help people suffering with Color Vision Deficiency (a.k.a Color blindness)
 - 🌱 I’m currently learning: Swift
