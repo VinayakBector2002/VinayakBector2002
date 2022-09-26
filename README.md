@@ -11,7 +11,7 @@
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
 
 - 🔭 I’m currently working with a Startup in Waterloo Region, called RouteThis
-- 🌱 I’m currently learning: Kotlin and Java
+- 🌱 I’m currently learning: Android Development
 - 💬 Ask me about C, C++, Swift, Python, DrRacket
 - 📫 How to reach me: <a href ="mailto:vbector@uwaterloo.ca">![Gmail Badge](https://img.shields.io/badge/-vbector@uwaterloo.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbector@uwaterloo.ca)</a>
 
