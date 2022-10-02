@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
 
 <div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=monokai&rank=SECRET,SSS,SS,AAA,B&margin-w=10" />
 </div>
 <p></p>
 <div align = "center">
