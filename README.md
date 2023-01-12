@@ -16,10 +16,15 @@
 - 📫 How to reach me: <a href ="mailto:vbector@uwaterloo.ca">![Gmail Badge](https://img.shields.io/badge/-vbector@uwaterloo.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbector@uwaterloo.ca)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/VinayakBector2002/count.svg" />
+</p>
+<!--
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=monokai&rank=SECRET,SSS,SS,AAA,B&margin-w=10" />
 </div>
+-->
 <p></p>
 <div align = "center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p>
