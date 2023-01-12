@@ -1,8 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/VinayakBector2002/count.svg" />
-</p>
-
 <div align = "center">
   <img align="center" src= "https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Vlogo.jpg" />
   <img src=https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Hnet-image%20(3).gif width="667px">
@@ -21,6 +16,12 @@
 - 📫 How to reach me: <a href ="mailto:vbector@uwaterloo.ca">![Gmail Badge](https://img.shields.io/badge/-vbector@uwaterloo.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbector@uwaterloo.ca)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/VinayakBector2002/count.svg" />
+</p>
+
 <!--
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=VinayakBector2002&theme=monokai&rank=SECRET,SSS,SS,AAA,B&margin-w=10" />
