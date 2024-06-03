@@ -10,9 +10,9 @@
 
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40">
 
-- 🔭 I’m currently looking for internships (Winter 2024)!
-- 🌱 I’m currently learning: Android Development
-- 💬 Ask me about C, C++, Swift, Python, DrRacket
+- 🔭 I’m currently looking for internships (Fall 2024)!
+- 🌱 I’m currently learning: Machine Learning
+- 💬 Ask me about: Gen-AI and LLMs
 - 📫 How to reach me: <a href ="mailto:vbector@uwaterloo.ca">![Gmail Badge](https://img.shields.io/badge/-vbector@uwaterloo.ca-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbector@uwaterloo.ca)</a>
 
 - ⚡ Fun fact: I can solve a rubiks cube in 30 seconds 
