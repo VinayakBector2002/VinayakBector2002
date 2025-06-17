@@ -33,9 +33,7 @@
 </div>
 <p align="center">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=VinayakBector2002&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=VinayakBector2002&theme=dracula&hide_border=true" />
-    
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=VinayakBector2002&show_icons=true&theme=dracula&hide_border=true" />    
   </a>
 </p>
 <div align="center">
